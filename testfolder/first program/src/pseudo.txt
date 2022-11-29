@@ -1,0 +1,9 @@
+calc
+
+start
+run a while loop
+input operands
+input num1 and num2
+use switch case for operation
+print result
+end
