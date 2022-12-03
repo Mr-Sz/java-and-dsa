@@ -13,6 +13,5 @@ public class Fibonacci1 {
             b = sum;
             sum =a+b;
         }
-
     }
 }
